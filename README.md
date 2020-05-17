@@ -1,7 +1,7 @@
  Hi ,
  
- some please assist me on this issue , i ma created simpe demo in network setup with ansible, 
- while running playbook under task is showing as changed, also unable to copy the content to different directory.
+ some please assist me on this issue , i am created simple demo setup in networking with ansible, 
+ while running tasks in playbook, it displays as changed, also unable to copy the content to different directory.
  
  root@NetworkAutomation-1:~/GNS3_Project# ls
 ESTABLISH  ansible.cfg  inventory  output  showospf.yml
